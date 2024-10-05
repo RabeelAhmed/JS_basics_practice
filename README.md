@@ -1,6 +1,3 @@
-
-Based on the image you provided, here's a suggested README file for your "practice-js" repository:
-
 JavaScript Concepts Practice
 This repository contains my practice implementations of various fundamental JavaScript concepts. Each file demonstrates an important feature of JavaScript, with simple examples to help reinforce understanding.
 
